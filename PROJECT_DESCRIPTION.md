@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** [voidroot_escrow.vercel.app]
+**Deployed Frontend URL:** [voidroot-escrow.vercel.app]
 
 **Solana Program ID:** `B8zkr7q9e5vJxmGdFTbMzY91e48qnucsPArvsVp3GjLJ`
 
